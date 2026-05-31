@@ -1,2 +1,2 @@
-$target = Read-Host "Ingresa la dirección IP o dominio a hacer ping"
+$target = Read-Host "🌐 Enter IP or domain"
 Test-Connection -ComputerName $target -Count 4
