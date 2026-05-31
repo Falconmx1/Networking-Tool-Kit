@@ -11,20 +11,6 @@
 - 🛠️ Herramientas incluidas:
   - Ping, Traceroute, Netstat, Nslookup, Whois, Telnet, SSH (cliente básico), Escaneo de puertos, Descarga de archivos (wget/curl), Monitoreo de red básico
 
-## 📂 Estructura del proyecto
-Networking-Tool-Kit/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── networking_tool_kit.sh (Linux)
-├── networking_tool_kit.ps1 (Windows)
-└── tools/
-├── ping_tool.sh
-├── traceroute_tool.sh
-├── port_scanner.sh
-└── ... (demás módulos)
-
-
 ## 🧪 Requisitos
 
 ### Linux
